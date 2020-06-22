@@ -1,6 +1,6 @@
 #!/usr/bin/python3
 
-"""Our own little animal farm"""
+"""Our own little animal farm."""
 
 import sys
 
